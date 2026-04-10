@@ -4,7 +4,7 @@ language: de
 comment: das Online-Handbuch
 -->
 
-# Co-WOERK Online-Handbuch: Building an OER-Communtiy
+# Co-WOERK Online-Handbuch: Building an OER-Community
 ## über dieses Handbuch
 lorem ipsum
 
