@@ -4,7 +4,7 @@ language: de
 comment: Handbuch-Kurzinfo
 -->
 
-# Co-WOERK Online-Handbuch: Building an OER-Communtiy
+# Co-WOERK Online-Handbuch: Building an OER-Community
 ## über dieses Handbuch
 ist noch in Arbeit
 
