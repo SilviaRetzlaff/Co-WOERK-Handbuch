@@ -9,10 +9,10 @@ comment: das Online-Handbuch
 lorem ipsum
 
 ## Community-Building
-lorem ipsum
+lorem cop ipsum
 
 ## OER-Portal
-ipsum
+ipsum portal-genese lorem
 
 ## Anreize
 lorem anreiz ipsum
