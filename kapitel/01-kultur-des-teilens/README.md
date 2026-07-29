@@ -2,5 +2,5 @@
 Kapitelpatin: tba
 Autor_innen: tba
 
-# Vorschlag für die Inhalte der Einleitung:
+# Vorschlag für die Inhalte dieses Kapitels:
 tba
