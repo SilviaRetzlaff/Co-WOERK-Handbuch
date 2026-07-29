@@ -1,37 +1,28 @@
 <!--
-author: Silvia
+author: Co-WOERK
 language: de
-comment: das Online-Handbuch
+version: 0.1.0
+comment: unsere Erkenntnisse aus drei Jahren Projektarbeit - ein Online-Handbuch
+
+@open
+<script modify="false" run-once>
+const origin = window.location.origin;
+const pathname = window.location.pathname;
+`LIASCRIPT: [@0](${origin + pathname}?@1)`
+</script>
+@end
 -->
 
-# Co-WOERK Online-Handbuch: Building an OER-Community
-## über dieses Handbuch
-lorem ipsum
+# Co-WOERK-Handbuch
 
-## Community-Building
-lorem cop ipsum
+## Über dieses Handbuch
 
-## OER-Portal
-ipsum portal-genese lorem
+Hier steht die Einführung in das Handbuch: Für wen es ist, was es kann und was es nicht kann.
 
-## Anreize
-lorem anreiz ipsum
-### Anreiz-Matrix
-Material: https://canva.link/matrix-im-handbuch
+## Kapitelübersicht
 
-| Phase\|Kategorie | materiell | immateriell | soziale | strukturell |
-| ---------------- | --------- | ----------- | ------- | ----------- |
-| Awareness        |           |             |         |             |
-| Interesse        |           |             |         |             |
-| Erwägung         |           |             |         |             |
-| Umsetzung        |           |             |         |             |
-| Integration      |           |             |         |             |
-
-### Anreize: ein Überblick
-alle Anreize, die wir in der Matrix eingeordnet haben
-
-### Anreize nach Kategorie
-alle Anreize, sortiert nach Kategorie in der Anreiz-Matrix
+- @[open(Einleitung)](kapitel/00-einleitung/README.md)
+- @[open(Kultur des Teilens)](kapitel/01-kultur-des-teilens/README.md)
 
 ## Credits
 Lizenzhinweis
