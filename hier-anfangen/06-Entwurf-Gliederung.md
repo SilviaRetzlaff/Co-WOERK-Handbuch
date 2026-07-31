@@ -54,7 +54,9 @@ Das Kapitel soll zeigen, wie OER verständlich kommuniziert, relevante Zielgrupp
 ### 4.4 Austausch- und Beteiligungsformate entwickeln
 
 ### 4.5 Communitys moderieren und Beziehungen pflegen
-
+- Umgang mit digitalen und physischen Communities
+- synchrone und asynchrone Kommunikation
+- wie schafft man Community-Räume (digital und lokal)
 ### 4.6 Mit schwankender Beteiligung und unterschiedlichen Erwartungen umgehen
 
 ### 4.7 Verantwortung verteilen und Communitys verstetigen
@@ -72,11 +74,13 @@ Das Kapitel soll zeigen, wie OER verständlich kommuniziert, relevante Zielgrupp
 - Was bedeutet Qualität bei offenen und veränderbaren Bildungsmaterialien?
 - Wer bestimmt, was als qualitativ hochwertig gilt?
 - Welche Qualitätsanforderungen gelten in unterschiedlichen Bildungskontexten?
+- Was bedeutet Qualität für die Communityarbeit?
 - Welche Kriterien sind allgemein übertragbar und welche kontextabhängig?
 - Wie können Lehrende und Lernende an der Qualitätsentwicklung beteiligt werden?
 - Welche Rolle spielen Feedback, Nachnutzung und gemeinschaftliche Überarbeitung?
 - Wie lässt sich Qualität sichern, ohne Offenheit und Beteiligung unnötig zu erschweren?
 - Wie kann mit unfertigen oder weiterzuentwickelnden Materialien umgegangen werden?
+- Sollten Zwischenstände veröffentlicht werden?
 - Welche Mindeststandards sind für Veröffentlichung und Nachnutzung sinnvoll?
 
 ### Mögliche Werkzeuge
