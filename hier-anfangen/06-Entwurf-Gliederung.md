@@ -1,16 +1,18 @@
 # Entwurf Gliederung
-Stand: 2026-07-30
+Stand: 2026-08-06
 
+Die folgende Gliederung ist ein erster Arbeitsstand. Sie schlägt eine mögliche Struktur und Leitfragen für die weitere Ausarbeitung vor und soll dabei Orientierung bieten, ohne die inhaltliche Gestaltung der einzelnen Kapitel oder eure Ideen vorwegzunehmen. Alle Gliederungspunkte, Beschreibungen und Leitfragen können im weiteren Arbeitsprozess ergänzt, gekürzt, verschoben, verändert oder gestrichen werden. Seht bitte nichts davon als verbindliche Vorgaben an.
 
+## Einführung
+Dieses Kapitel könnte einen Überblick über die Entstehung, das Ziel, die Zielgruppe und die Handhabung (Klickpfade, Lesepfade, Verweis auf Materialien) enthalten. 
 
 
 ## 1. Einstieg: Von OER zum OER-Ökosystem
-
+Einstiegsfrage: Warum führen mehr offene Materialien nicht automatisch zu nachhaltigen, offenen Bildungspraktiken?
 ### 1.1 Was verstehen wir unter einem OER-Ökosystem?
 
 ### 1.2 Das communityzentrierte Schalenmodell
-
-### 1.3 Das Handbuch nutzen
+Die hier erläuerten Spannungsfelder (Communityarbeit, Anreizstrukturen, Infrastrukturentwicklung, Qualitätssicherung) könnten in den Folge-Kapiteln zur besseren Wiederauffindbarkeit mit Symbolen gekennzeichnet werden.
 
 ---
 
@@ -81,7 +83,7 @@ Das Kapitel soll zeigen, wie OER verständlich kommuniziert, relevante Zielgrupp
 
 - Qualitätskriterien-Katalog
 - Reflexionsbogen
-
+- OER-Canvas
 ---
 
 ## 6. Beteiligung durch Anreize fördern
@@ -90,7 +92,7 @@ Das Kapitel soll zeigen, wie OER verständlich kommuniziert, relevante Zielgrupp
 
 ### 6.2 Die Anreizmatrix
 
-### 6.3 Materialien
+### 6.3 OER-Anreize: Unsere Sammlung zum Ausprobieren
 
 - Personas
 - Beispiele für Anreize
@@ -108,6 +110,7 @@ Das Kapitel soll zeigen, wie OER verständlich kommuniziert, relevante Zielgrupp
 - Welche Rolle spielen Hochschulleitung, Fachbereiche, Bibliothek, Hochschuldidaktik und IT?
 - Welche Entscheidungen benötigen verbindliche Regeln oder strategische Beschlüsse?
 - Wann ist eine OER-Policy hilfreich?
+- Was ist ein OER-Kodex und wozu kann er dienen?
 - Wie können Zuständigkeiten über Projektlaufzeiten hinaus gesichert werden?
 - Welche Ressourcen sind für dauerhafte Strukturen erforderlich?
 - Wie lässt sich mit begrenzter Entscheidungsmacht von Projekten umgehen?
